@@ -55,13 +55,13 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Monitoramento e Redes**
+**Network Operations Intelligence**
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Redes](https://img.shields.io/badge/Redes_de_Computadores-0A66C2?style=flat-square)
 
-**Em estudo**
+**Entusiasmo**
 
 ![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-1F2937?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 
@@ -77,14 +77,15 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 | — | — | — |
 
 <details>
-<summary><b>🌐 Cursos externos</b> · aplicações web com React e Node</summary>
+<summary><b>🌐 Cursos externos</b> · Cursos e maratonas de desenvolvimento web</summary>
 
 <br>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Nome do projeto](link) | Descrição curta | React, Node.js |
-| [Nome do projeto](link) | Descrição curta | React, Node.js |
+| [Heroway](https://github.com/VictorRS27/game-heroway) | Projeto da react4gamers | React, Node.js |
+| [NLW 1 - Recoleta](https://github.com/VictorRS27/NLW-1---Ecoleta) | Projeto da Rocketseat | React, Node.js |
+| [NLW 2 - Proffy](https://github.com/VictorRS27/nlw2) | Projeto da Rocketseat | React, Node.js |
 
 </details>
 
@@ -117,8 +118,8 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorRS27&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRS27&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 ---
