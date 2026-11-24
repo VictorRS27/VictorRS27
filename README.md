@@ -29,7 +29,8 @@ Pesquisa sobre um detector de desalinhamento em correia transportadora, desenvol
 
 ### 🛡️ [Ganesh] · Cibersegurança (2022–2025)
 Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em projetos como [projeto 1], [projeto 2] e [projeto 3].
-🔗 [Site ou página do grupo](https://github.com/GANESH-ICMC)
+🔗 [GitHub Ganesh](https://github.com/GANESH-ICMC)
+🔗 [Página web](https://ganesh.icmc.usp.br/br/about)
 
 > Os repositórios desses trabalhos são privados. Fico à vontade para conversar sobre eles.
 
@@ -86,18 +87,23 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 | [Heroway](https://github.com/VictorRS27/game-heroway) | Projeto da react4gamers | React, Node.js |
 | [NLW 1 - Recoleta](https://github.com/VictorRS27/NLW-1---Ecoleta) | Projeto da Rocketseat | React, Node.js |
 | [NLW 2 - Proffy](https://github.com/VictorRS27/nlw2) | Projeto da Rocketseat | React, Node.js |
+| [NLW 3 - Happy](https://github.com/VictorRS27/NLW-3) | Projeto da Rocketseat | React, Node.js |
 
 </details>
 
 <details>
-<summary><b>🎓 Faculdade (USP)</b> · algoritmos e estruturas de dados complexas</summary>
+<summary><b>🎓 Faculdade (USP)</b> · Projetos/Conjuntos de códigos feitos durante a faculdade</summary>
 
 <br>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Nome do projeto](link) | Descrição curta | C++ |
-| [Nome do projeto](link) | Descrição curta | Python |
+| [Purrfect Paradise](https://github.com/VictorRS27/WebIntroProject) | E-commerce de um petshop fictício | Vue, Node.js |
+| [CEFácil](https://github.com/VictorRS27/CEFacil) | Integração entre formulários e planilhas para reservas de espaços | Python |
+| [Algoritmos Avançados](https://github.com/VictorRS27/Advanced-Algs-Analisys) | Problemas de algoritmo estilo leetcode/maratona | C++ |
+| [Arquivos](https://github.com/VictorRS27/Trabalho1) | Trabalho da disciplina de arquivos implementando alguns comandos SQl em C | C |
+| [Arquivos](https://github.com/VictorRS27/Trabalho1) | Trabalho da disciplina de arquivos implementando alguns comandos SQl em C | C |
+| [Arquivos](https://github.com/VictorRS27/Trabalho1) | Trabalho da disciplina de arquivos implementando alguns comandos SQl em C | C |
 
 </details>
 
