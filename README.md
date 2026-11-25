@@ -68,6 +68,9 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 **Entusiasmo**
 
 ![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-1F2937?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Cloud e Hosting](https://img.shields.io/badge/Cloud_e_Hosting-1F2937?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Self-hosting](https://img.shields.io/badge/Self--hosting-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
+![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-1F2937?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
