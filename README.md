@@ -80,8 +80,8 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 |---|---|---|
 | — | — | — |
 
-<details>
-<summary><b>🌐 Cursos externos</b> · Cursos e maratonas de desenvolvimento web</summary>
+
+### 🌐 Cursos externos</b> · Cursos e maratonas de desenvolvimento web
 
 <br>
 
@@ -92,10 +92,10 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 | [NLW 2 - Proffy](https://github.com/VictorRS27/nlw2) | Projeto da Rocketseat | React, Node.js |
 | [NLW 3 - Happy](https://github.com/VictorRS27/NLW-3) | Projeto da Rocketseat | React, Node.js |
 
-</details>
 
-<details>
-<summary><b>🎓 Faculdade (USP)</b> · Projetos/Conjuntos de códigos feitos durante a faculdade</summary>
+
+
+### 🎓 Faculdade (USP)</b> · Projetos/Conjuntos de códigos feitos durante a faculdade
 
 <br>
 
@@ -112,10 +112,10 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 
 
 
-</details>
 
-<details>
-<summary><b>🏫 Ensino técnico</b> · Projetos Web variados </summary>
+
+
+### 🏫 Ensino técnico</b> · Projetos Web variados
 
 <br>
 
@@ -124,7 +124,7 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 | [Mensa Seminterrata](https://github.com/VictorRS27/Mensa_seminterrata) | E-commerce para venda de bebidas | PHP |
 | [Projetos em ASP.NET](https://github.com/VictorRS27/.Net-C---ETEVAV) | Exercícios feitos em disciplina  | C#, .NET |
 
-</details>
+
 
 ---
 
