@@ -1,12 +1,12 @@
-<h1 align="center">Victor Rodrigues da Silva</h1>
+<h1 align="left">Victor Rodrigues da Silva</h1>
 
-<p align="center">
+<p align="left">
   Bacharel em Ciência da Computação pela USP · Network Operations Intelligence<br>
   Criando projetinhos e sendo entusiasta de redes e cibersegurança
 </p>
 
-<p align="center">
-  <a href="COLE_AQUI_O_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/victor-rodrigues-da-silva-8858151ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Aberto_a_oportunidades-2EA043?style=flat-square" alt="Aberto a oportunidades">
 </p>
 
@@ -25,11 +25,14 @@
 
 ### 🔬 Iniciação científica · USP em parceria com a Vale
 Pesquisa sobre um detector de desalinhamento em correia transportadora, desenvolvida em parceria com a Vale, onde estabeleci conectividade via MQTT entre microcontrolador com sensor com ambiente de nuvem e colaborei na análise dos melhores modelos de machine learning para lidar com os dados recebidos.
+
 📄 **Artigo publicado:** [Machine Learning Techniques for Improving Multiclass Anomaly Detection on Conveyor Belts](https://ieeexplore.ieee.org/document/10561167) · *IEEE Instrumentation and Measurement Technology Conference, 2024*
 
 ### 🛡️ [Ganesh] · Cibersegurança (2022–2025)
-Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em projetos como [projeto 1], [projeto 2] e [projeto 3].
+Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em 1 ano como presidente, criei desafios, ministrei aulas e cursos, organizei conferências, parcerias e patrocínios. Como membro, participei das frentes de estudo em redes e de web, criando aulas, apresentações e material.
+
 🔗 [GitHub Ganesh](https://github.com/GANESH-ICMC)
+
 🔗 [Página web](https://ganesh.icmc.usp.br/br/about)
 
 > Os repositórios desses trabalhos são privados. Fico à vontade para conversar sobre eles.
@@ -101,21 +104,25 @@ Membro por 3 anos de um grupo de extensão focado em cibersegurança, atuando em
 | [Purrfect Paradise](https://github.com/VictorRS27/WebIntroProject) | E-commerce de um petshop fictício | Vue, Node.js |
 | [CEFácil](https://github.com/VictorRS27/CEFacil) | Integração entre formulários e planilhas para reservas de espaços | Python |
 | [Algoritmos Avançados](https://github.com/VictorRS27/Advanced-Algs-Analisys) | Problemas de algoritmo estilo leetcode/maratona | C++ |
-| [Arquivos](https://github.com/VictorRS27/Trabalho1) | Trabalho da disciplina de arquivos implementando alguns comandos SQl em C | C |
-| [Arquivos](https://github.com/VictorRS27/Trabalho1) | Trabalho da disciplina de arquivos implementando alguns comandos SQl em C | C |
-| [Arquivos](https://github.com/VictorRS27/Trabalho1) | Trabalho da disciplina de arquivos implementando alguns comandos SQl em C | C |
+| [Communications Timeline](https://github.com/VictorRS27/Communications-timeline) | Trabalho voluntário para o museu do ICMC, contando a história do pager | HTML, CSS, JS |
+| [Algoritmos e Estruturas de dados](https://github.com/VictorRS27/ALG1) | Códigos produzidos na disciplina | C |
+| [ICC1](https://github.com/VictorRS27/ICC1) [ICC2](https://github.com/VictorRS27/ICC2) [Lab ICC1](https://github.com/VictorRS27/LAb-ICC1)| Códigos produzidos dentro das disciplinas | C |
+| [Fonte carregador](https://github.com/VictorRS27/Projeto-fonte) | Fonte de tensão ajustável para disciplina de hardware |  |
+
+
+
 
 </details>
 
 <details>
-<summary><b>🏫 Ensino técnico</b> · projetos web variados</summary>
+<summary><b>🏫 Ensino técnico</b> · Projetos Web variados </summary>
 
 <br>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Nome do projeto](link) | Descrição curta | PHP |
-| [Nome do projeto](link) | Descrição curta | C# |
+| [Mensa Seminterrata](https://github.com/VictorRS27/Mensa_seminterrata) | E-commerce para venda de bebidas | PHP |
+| [Projetos em ASP.NET](https://github.com/VictorRS27/.Net-C---ETEVAV) | Exercícios feitos em disciplina  | C#, .NET |
 
 </details>
 
