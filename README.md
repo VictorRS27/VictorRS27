@@ -7,7 +7,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-rodrigues-da-silva-8858151ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Aberto_a_oportunidades-2EA043?style=flat-square" alt="Aberto a oportunidades">
 </p>
 
 ---
